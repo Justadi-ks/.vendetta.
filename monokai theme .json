@@ -1,0 +1,112 @@
+{
+  "name": "Monokai alt",
+  "description": "A dark and minimalistic theme based on the Monokai-inspired Visual Studio Code theme, Monokai Night.",
+  "authors": [
+    {
+      "name": "Monokai alt",
+      "id": "890228870559698955"
+    }
+  ],
+  "semanticColors": {
+    "CHAT_BACKGROUND": [
+      "#1f1f1f"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#1f1f1f"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#171717"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#262626"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0f0f0f"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#0f0f0f"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#1f1f1f"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#161616"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#161616"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#262626"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#f9267210"
+    ],
+    "BACKGROUND_MESSAGE_HIGHLIGHT": [
+      "#66d9ef10"
+    ],
+    "HEADER_PRIMARY": [
+      "#f2f2f2"
+    ],
+    "HEADER_SECONDARY": [
+      "#dddddd"
+    ],
+    "TEXT_NORMAL": [
+      "#f2f2f2"
+    ],
+    "TEXT_LINK": [
+      "#56adbc"
+    ],
+    "TEXT_BRAND": [
+      "#4e8478"
+    ],
+    "CONTROL_BRAND_FOREGROUND": [
+      "#4e8478"
+    ],
+    "CHANNEL_ICON": [
+      "#666666"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#666666"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#666666"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#f2f2f2"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_600": "#1f1f1f",
+    "PRIMARY_500": "#363636",
+    "BRAND_100": "#f2fffc",
+    "BRAND_130": "#e6faf5",
+    "BRAND_160": "#d9faf2",
+    "BRAND_200": "#c5fcef",
+    "BRAND_230": "#a9e8da",
+    "BRAND_260": "#a6e3d5",
+    "BRAND_300": "#9cd6ca",
+    "BRAND_330": "#91cfc0",
+    "BRAND_345": "#80baae",
+    "BRAND_360": "#72a89d",
+    "BRAND_400": "#67a194",
+    "BRAND_430": "#629c8f",
+    "BRAND_460": "#568f82",
+    "BRAND_500": "#4e8478",
+    "BRAND_530": "#42756a",
+    "BRAND_560": "#37695e",
+    "BRAND_600": "#2d6156",
+    "BRAND_630": "#25574c",
+    "BRAND_660": "#205247",
+    "BRAND_700": "#1a4a40",
+    "BRAND_730": "#144036",
+    "BRAND_760": "#113b32",
+    "BRAND_800": "#0d3029",
+    "BRAND_830": "#0a2b24",
+    "BRAND_860": "#082922",
+    "BRAND_900": "#02120e",
+    "YELLOW_300": "#4e8478",
+    "RED_400": "#4e8478",
+    "GREEN_360": "#86b42b"
+  },
+  "spec": 2
+}
