@@ -1,5 +1,4 @@
-{
-  "name": "Monokai",
+"name": "Monokai",
   "description": "A dark and minimalistic theme inspired by a random user.",
   "authors": [
     {
@@ -18,7 +17,7 @@
       "#171717"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#262626"
+      "#191919"
     ],
     "BACKGROUND_TERTIARY": [
       "#0f0f0f"
@@ -36,10 +35,10 @@
       "#161616"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#262626"
+      "#101010"
     ],
     "BACKGROUND_MENTIONED": [
-      "#f9267210"
+      "#01282fea"
     ],
     "BACKGROUND_MESSAGE_HIGHLIGHT": [
       "#66d9ef10"
